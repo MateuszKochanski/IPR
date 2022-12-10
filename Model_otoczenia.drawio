@@ -1,11 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-12-10T12:36:14.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="oy8OM6GmoZ4OvPQ4Afgt" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-10T13:13:54.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="if6wKSwW3qDCH7Eaw-Ue" version="20.6.2" type="github">
   <diagram id="tUHtiKDfzgEZTVPMA67a" name="Strona-1">
-    <mxGraphModel dx="780" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O7jWr-kh2Hpz6ujjjdfJ-1" value="Kino" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="110" height="50" as="geometry" />
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-5" value="Kino" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="450" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-6" value="Bramki wejsciowe" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="620" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-7" value="Kasa biletowa" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="510" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-8" value="Biletomat" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="590" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-9" value="Sala kinowa" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="410" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-10" value="Telebim" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="910" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-11" value="Monitoring" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="670" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-15" value="Sala VIP" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="490" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-16" value="Sala standardowa" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-178" y="490" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-17" value="Film" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="350" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-18" value="Bilet" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="630" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-19" value="Buffet" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="970" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-20" value="Serwer" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-21" value="Sieć kin" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-22" value="Strona internetowa" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="670" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e89EQoEDFY6EmZiCrGHN-23" value="Aplikacja" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="750" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
