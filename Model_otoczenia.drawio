@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-10T13:52:01.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aOSHsFdDZyONyPidAnCC" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-10T14:07:15.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="pjZwqYTy6MbPZxSVZQL0" version="20.6.2" type="github">
   <diagram id="tUHtiKDfzgEZTVPMA67a" name="Strona-1">
-    <mxGraphModel dx="2249" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2545" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
             <mxPoint x="-150" y="460" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFYlk5kQzv674qGUQw_e-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=diamondThin;startFill=1;" parent="1" source="e89EQoEDFY6EmZiCrGHN-5" target="e89EQoEDFY6EmZiCrGHN-21" edge="1">
+        <mxCell id="yFYlk5kQzv674qGUQw_e-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;startArrow=none;startFill=0;" parent="1" source="e89EQoEDFY6EmZiCrGHN-5" target="e89EQoEDFY6EmZiCrGHN-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-280" y="400" />
