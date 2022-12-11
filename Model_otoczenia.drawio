@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T11:59:16.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FbwczslJpFl5IyLr731f" version="20.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-11T12:00:09.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="lRVOIfIOXmjVa4F4657x" version="20.6.2" type="github" pages="3">
   <diagram id="tUHtiKDfzgEZTVPMA67a" name="Strona-1">
     <mxGraphModel dx="2889" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -303,7 +303,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Eq2J6N2sAhkhXQ3XGdyd" name="Wymagania formalne">
-    <mxGraphModel dx="3276" dy="2420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3796" dy="2703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -567,6 +567,17 @@
         </mxCell>
         <mxCell id="LwznUZbxSN988DYVW158-51" value="Kasowanie biletów" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="970" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LwznUZbxSN988DYVW158-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LwznUZbxSN988DYVW158-90" target="LwznUZbxSN988DYVW158-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="645" />
+              <mxPoint x="630" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LwznUZbxSN988DYVW158-90" value="Usunięcie konta" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="711.25" y="620" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
