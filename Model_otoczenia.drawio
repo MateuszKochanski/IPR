@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T13:28:05.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aMOIZLnPha_ldsby5BIM" version="20.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-14T13:29:30.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="JYvnN7Qo86kUAmRwOYiz" version="20.6.2" type="github" pages="4">
   <diagram id="9IYc9xzcBmZGfHSVLD5R" name="Diagram przypadków użycia">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -291,11 +291,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iL0bR_-Mrm8sUoyKbv9d" name="Aktorzy">
-    <mxGraphModel dx="982" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oXY8GW7MWzEONXjawWK0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamond;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-2" target="oXY8GW7MWzEONXjawWK0-15">
+        <mxCell id="oXY8GW7MWzEONXjawWK0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-2" target="oXY8GW7MWzEONXjawWK0-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="380" />
@@ -309,7 +309,7 @@
         <mxCell id="oXY8GW7MWzEONXjawWK0-3" value="Ochroniarz" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="630" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oXY8GW7MWzEONXjawWK0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamond;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-7" target="oXY8GW7MWzEONXjawWK0-10">
+        <mxCell id="oXY8GW7MWzEONXjawWK0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-7" target="oXY8GW7MWzEONXjawWK0-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="630" />
@@ -317,10 +317,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oXY8GW7MWzEONXjawWK0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamond;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-7" target="oXY8GW7MWzEONXjawWK0-3">
+        <mxCell id="oXY8GW7MWzEONXjawWK0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-7" target="oXY8GW7MWzEONXjawWK0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oXY8GW7MWzEONXjawWK0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamond;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-7" target="oXY8GW7MWzEONXjawWK0-12">
+        <mxCell id="oXY8GW7MWzEONXjawWK0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-7" target="oXY8GW7MWzEONXjawWK0-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="630" />
@@ -331,10 +331,10 @@
         <mxCell id="oXY8GW7MWzEONXjawWK0-7" value="Pracownik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="600" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oXY8GW7MWzEONXjawWK0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamond;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-10" target="oXY8GW7MWzEONXjawWK0-13">
+        <mxCell id="oXY8GW7MWzEONXjawWK0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-10" target="oXY8GW7MWzEONXjawWK0-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oXY8GW7MWzEONXjawWK0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamond;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-10" target="oXY8GW7MWzEONXjawWK0-14">
+        <mxCell id="oXY8GW7MWzEONXjawWK0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-10" target="oXY8GW7MWzEONXjawWK0-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oXY8GW7MWzEONXjawWK0-10" value="Sprzedawca" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -352,7 +352,7 @@
         <mxCell id="oXY8GW7MWzEONXjawWK0-15" value="Recenzent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="280" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oXY8GW7MWzEONXjawWK0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=diamond;startFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-19" target="oXY8GW7MWzEONXjawWK0-7">
+        <mxCell id="oXY8GW7MWzEONXjawWK0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=block;startFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-19" target="oXY8GW7MWzEONXjawWK0-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="540" />
@@ -360,7 +360,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oXY8GW7MWzEONXjawWK0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=diamond;startFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-19" target="oXY8GW7MWzEONXjawWK0-2">
+        <mxCell id="oXY8GW7MWzEONXjawWK0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=block;startFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-19" target="oXY8GW7MWzEONXjawWK0-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="540" />
