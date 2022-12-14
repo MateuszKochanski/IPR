@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T13:29:30.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="JYvnN7Qo86kUAmRwOYiz" version="20.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-14T13:31:48.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Vm54xsQKdn9N5tvw_nee" version="20.6.2" type="github" pages="4">
   <diagram id="9IYc9xzcBmZGfHSVLD5R" name="Diagram przypadków użycia">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -291,7 +291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iL0bR_-Mrm8sUoyKbv9d" name="Aktorzy">
-    <mxGraphModel dx="1178" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -375,7 +375,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Eq2J6N2sAhkhXQ3XGdyd" name="Wymagania formalne">
-    <mxGraphModel dx="2028" dy="1741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2912" dy="2222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -596,9 +596,6 @@
         <mxCell id="LwznUZbxSN988DYVW158-33" value="Sprzedaż biletów" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="820" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LwznUZbxSN988DYVW158-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LwznUZbxSN988DYVW158-34" target="LwznUZbxSN988DYVW158-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LwznUZbxSN988DYVW158-34" value="Uwzględnienie rabatów" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="650" width="160" height="50" as="geometry" />
         </mxCell>
@@ -632,11 +629,8 @@
         <mxCell id="LwznUZbxSN988DYVW158-45" value="Obsługa biletomatów" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="750" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LwznUZbxSN988DYVW158-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LwznUZbxSN988DYVW158-46" target="LwznUZbxSN988DYVW158-45" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LwznUZbxSN988DYVW158-46" value="Wyświetlanie materiałów &lt;br&gt;marketingowych" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="750" width="160" height="50" as="geometry" />
+          <mxGeometry x="-190" y="1130" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LwznUZbxSN988DYVW158-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LwznUZbxSN988DYVW158-47" target="LwznUZbxSN988DYVW158-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -644,11 +638,8 @@
         <mxCell id="LwznUZbxSN988DYVW158-47" value="Obsługa kas" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="820" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LwznUZbxSN988DYVW158-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LwznUZbxSN988DYVW158-48" target="LwznUZbxSN988DYVW158-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LwznUZbxSN988DYVW158-48" value="Określenie ceny biletów" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="820" width="160" height="50" as="geometry" />
+          <mxGeometry x="-190" y="1040" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LwznUZbxSN988DYVW158-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LwznUZbxSN988DYVW158-49" target="LwznUZbxSN988DYVW158-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
