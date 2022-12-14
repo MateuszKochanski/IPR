@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T12:54:07.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="BamVzDa3tZXQ5seH_09q" version="20.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-14T13:28:05.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aMOIZLnPha_ldsby5BIM" version="20.6.2" type="github" pages="4">
   <diagram id="9IYc9xzcBmZGfHSVLD5R" name="Diagram przypadków użycia">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -291,7 +291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iL0bR_-Mrm8sUoyKbv9d" name="Aktorzy">
-    <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,9 +340,6 @@
         <mxCell id="oXY8GW7MWzEONXjawWK0-10" value="Sprzedawca" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="510" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oXY8GW7MWzEONXjawWK0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamond;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-12" target="oXY8GW7MWzEONXjawWK0-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oXY8GW7MWzEONXjawWK0-12" value="Wsparcie IT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="740" width="30" height="60" as="geometry" />
         </mxCell>
@@ -354,9 +351,6 @@
         </mxCell>
         <mxCell id="oXY8GW7MWzEONXjawWK0-15" value="Recenzent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="280" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oXY8GW7MWzEONXjawWK0-16" value="Administrator sieci" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="740" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oXY8GW7MWzEONXjawWK0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=diamond;startFill=0;" edge="1" parent="1" source="oXY8GW7MWzEONXjawWK0-19" target="oXY8GW7MWzEONXjawWK0-7">
           <mxGeometry relative="1" as="geometry">
@@ -381,7 +375,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Eq2J6N2sAhkhXQ3XGdyd" name="Wymagania formalne">
-    <mxGraphModel dx="2912" dy="2222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2028" dy="1741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
